@@ -9,5 +9,6 @@ function solution(s) {
       return false;
     }
   }
+
   return !cnt;
 }
